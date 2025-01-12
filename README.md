@@ -39,6 +39,9 @@ Connect a physical device or start an emulator.
 ##### flutter run
 Alternatively, you can use Android Studio or VS Code to run the app.
 
+## Screenshots
+<img src="screenshots/portrait.png" alt="Home Screen" width="300" height="600">
+<img src="screenshots/landscape.png" alt="Forecast Screen" width="600">
 
 ## Contribution
 ##### Contributions are welcome! Feel free to open a pull request or file an issue.
